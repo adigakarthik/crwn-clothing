@@ -1,3 +1,7 @@
+# Capstone Project - ZTM
+
+This is an exercise project from ZTM - Capstone
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
